@@ -7,7 +7,6 @@ I design and deliver scalable, cloud-native applications across **asset manageme
 [![Portfolio](https://img.shields.io/badge/Portfolio-prasadb105.github.io-1b7f7a?style=for-the-badge&logo=githubpages&logoColor=white)](https://prasadb105.github.io/Narasimha-Prasad-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narasimha_Prasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimha-prasad-bathini-49109011/)
 
-🌐 **Portfolio:** [prasadb105.github.io/Narasimha-Prasad-Portfolio](https://prasadb105.github.io/Narasimha-Prasad-Portfolio/)
 
 ---
 
